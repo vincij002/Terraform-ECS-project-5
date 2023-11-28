@@ -22,8 +22,8 @@ database_instance_class      = "db.t2.micro"
 publicly_accessible          = "false"
 
 # acm variables
-domain_name       = "vinci222.com"
-alternative_names = "*.vinci222.com"
+domain_name       = "vinci777.com"
+alternative_names = "*.vinci777.com"
 
 # s3 variables
 env_file_bucket_name = "an-rentzone-app-env-file-bucket"
