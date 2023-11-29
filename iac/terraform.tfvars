@@ -1,5 +1,5 @@
 # environment variables
-region       = "terraform-state-lock"
+region       = "us-east-1"
 project_name = "rentzone"
 environment  = "dev"
 
