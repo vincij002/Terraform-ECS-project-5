@@ -337,3 +337,4 @@ jobs:
             -user=${{ env.FLYWAY_USER }} \
             -password=${{ env.FLYWAY_PASSWORD }} \
             -locations=${{ env.FLYWAY_LOCATION }} migrate
+
