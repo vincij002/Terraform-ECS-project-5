@@ -26,7 +26,7 @@ domain_name       = "vinci777.com"
 alternative_names = "*.vinci777.com"
 
 # s3 variables
-env_file_bucket_name = "an-rentzone-app-env-file-bucket"
+env_file_bucket_name = "rentzone-an-rentzone-app-env-file-bucket"
 env_file_name        = "env-variables-file.env"
 
 # ecs variables
