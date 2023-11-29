@@ -13,7 +13,7 @@ env:
   REPOSITORY_NAME: application-codes-11
   WEB_FILE_ZIP: rentzone.zip
   WEB_FILE_UNZIP: rentzone
-  FLYWAY_VERSION: 6.11.6
+  FLYWAY_VERSION: 10.1.0
 
 jobs:
   # Configure AWS credentials 
